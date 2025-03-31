@@ -14,14 +14,14 @@ Je suis un étudiant curieux et motivé, toujours à la recherche de nouveaux d�
 - **Bases de données** : MySQL, MongoDB
 - **Autres** : Docker, Agile
 
-### 📚 Projets récents
+### 📚 Projets
 
 Voici quelques projets sur lesquels j'ai travaillé :
 
-- **[Site web de restaurant](https://github.com/MBESNARD99/restaurant-website)** : Un site vitrine interactif pour un restaurant, avec un menu dynamique.
-- **[Site de bijouterie](https://github.com/MBESNARD99/jewelry-website)** : Développement d’un site e-commerce pour une bijouterie avec gestion de produits.
-- **[Application de gestion de jeux-vidéos](https://github.com/MBESNARD99/game-library-app)** : Application pour gérer une bibliothèque de jeux vidéo (ajout, suppression, tri, etc.).
-- **[Jeu RPG 2D](https://github.com/MBESNARD99/rpg-game)** : Développement d’un jeu de rôle en 2D avec exploration et combats sous Python.
+- **Web : [Site web de restaurant - 1ère GT (Lycée)](https://mbesnard99.github.io/)**
+- **Web : [Site de bijouterie - BUT1 (Universitaire)](https://github.com/MBESNARD99/cintilante)** 
+- **Python : [Jeu donjon en python - Term GT (Lycée)](https://github.com/MBESNARD99/DungeonGameNSI)** 
+- **Kotlin : [Scream & Shout - BUT2 (Universitaire)](https://github.com/MBESNARD99/scream-shout)**
 
 ### 🌍 Contactez-moi
 
