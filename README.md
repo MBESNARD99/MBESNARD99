@@ -1,6 +1,6 @@
 # Bonjour, je suis Mathéo BESNARD 👨‍💻
 
-Étudiant en **BUT2 Informatique**, passionné par le développement web et mobile. Actuellement à la recherche d'un stage en informatique pour **avril - juin 2025**.
+Étudiant en **BUT2 Informatique**, passionné par le développement web et mobile.
 
 ## 🎯 À propos de moi
 
