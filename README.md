@@ -1,12 +1,12 @@
-# Bonjour, je suis Mathéo BESNARD 👨‍💻
+# Bonjour, je suis Mathéo BESNARD
 
-Étudiant en **BUT2 Informatique**, passionné par le développement web et mobile.
+Étudiant en **BUT3 Informatique**, passionné par le développement web et mobile.
 
-## 🎯 À propos de moi
+## À propos de moi
 
 Je suis un étudiant curieux et motivé, toujours à la recherche de nouveaux défis. J'adore travailler sur des projets concrets et innovants, que ce soit seul ou en équipe. Mes compétences s'étendent du développement **web** à la création d'**applications mobiles** et de **jeux vidéo**. Vous pouvez en savoir plus sur mes compétences, mes projets et mon parcours via mon [portfolio](https://besnardmatheo.github.io/).
 
-### 🔧 Compétences techniques
+### Compétences techniques
 
 - **Langages** : Java, Python, C, JavaScript, SQL, PHP
 - **Frameworks et Outils** : Node.js, Symfony, Android Studio, Git
@@ -14,7 +14,7 @@ Je suis un étudiant curieux et motivé, toujours à la recherche de nouveaux d�
 - **Bases de données** : MySQL, MongoDB
 - **Autres** : Agile
 
-### 📚 Projets
+### Projets
 
 Voici quelques projets sur lesquels j'ai travaillé :
 
