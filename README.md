@@ -1,6 +1,6 @@
 # Bonjour, je suis Mathéo BESNARD
 
-Étudiant en **BUT3 Informatique**, passionné par le développement web et mobile.
+Étudiant en **BUT3 Informatique**, passionné principalement par le développement web et applicatif en général.
 
 ## À propos de moi
 
