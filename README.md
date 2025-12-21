@@ -4,7 +4,7 @@
 
 ## À propos de moi
 
-Je suis un étudiant curieux et motivé, toujours à la recherche de nouveaux défis. J'adore travailler sur des projets concrets et innovants, que ce soit seul ou en équipe. Mes compétences s'étendent du développement **web** à la création d'**applications mobiles** et de **jeux vidéo**. Vous pouvez en savoir plus sur mes compétences, mes projets et mon parcours via mon [portfolio](https://besnardmatheo.github.io/).
+Je suis un étudiant curieux et motivé, toujours à la recherche de nouveaux défis. J'adore travailler sur des projets concrets et innovants, que ce soit seul ou en équipe. Mes compétences s'étendent du développement **web** à la création d'**applications mobiles** et de **jeux vidéo**. Vous pouvez en savoir plus sur mes compétences, mes projets et mon parcours via mon [portfolio](http://besnard-matheo.fr/).
 
 ### Compétences techniques
 
