@@ -18,7 +18,6 @@ Je suis un étudiant curieux et motivé, toujours à la recherche de nouveaux d�
 
 Voici quelques projets sur lesquels j'ai travaillé :
 
-- **Web : [Site web de restaurant - 1ère GT (Lycée)](https://mbesnard99.github.io/)**
 - **Web : [Site de bijouterie - BUT1 (Universitaire)](https://github.com/MBESNARD99/cintilante)** 
 - **Python : [Jeu donjon en python - Term GT (Lycée)](https://github.com/MBESNARD99/DungeonGameNSI)** 
 - **Kotlin : [Scream & Shout - BUT2 (Universitaire)](https://github.com/MBESNARD99/scream-shout)**
